@@ -1,0 +1,2 @@
+instalar la libreria sessioninfo // install.packages("sessioninfo")
+En la consola ejecutar: sessioninfo::session_info()
